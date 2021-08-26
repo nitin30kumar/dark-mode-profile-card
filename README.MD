@@ -5,3 +5,5 @@
 > - Simple profile card
 > - Fully customizable with your info
 > - Responsive frontend not made by me LOL
+
+See the working of this dark mode by clicking on [dark-mode.netlify.app](https://simple-dark-mode.netlify.app/)
